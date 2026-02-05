@@ -11,6 +11,7 @@ Frontend is opencode
 - Displays events in a web dashboard with most recent events first
 - Provides API endpoints for accessing event data
 - Shows event badges (push, pull_req, merged) with color-coded display
+- Tracks https://github.com/softCub/action-repo 
 
 ## Installation Steps
 
