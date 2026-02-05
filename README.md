@@ -2,6 +2,8 @@
 
 A Flask application that processes GitHub webhooks and displays events in a web dashboard.
 ![screen shot of the page](https://github.com/softCub/webhook-repo/blob/main/ss.png)
+Frontend is opencode
+
 ## What It Does
 
 - Receives and processes GitHub webhook events (push and pull requests)
